@@ -12,7 +12,7 @@ This project is a simple Spring Boot application aimed at demonstrating the basi
 - Maven
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/yourusername/springboot-readme.git`
+1. Clone the repository: `git clone https://github.com/ParthBoghani46/tic-tac-toe.git`
 2. Run TicTacToeApplication Class from IDE
 
 ## Usage
